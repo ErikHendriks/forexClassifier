@@ -1,0 +1,2 @@
+# forexClassifier
+Forex strategy based on https://www.researchgate.net/publication/236896558_FOREX_Daily_Trend_Prediction_using_Machine_Learning_Techniques?enrichId=rgreq-93372d8d52382de719821a1c4c52914b-XXX&amp;enrichSource=Y292ZXJQYWdlOzIzNjg5NjU1ODtBUzoxMDEyNTk1NjY2NDkzNThAMTQwMTE1MzU3MDc1Nw%3D%3D&amp;el=1_x_2&amp;_esc=publicationCoverPdf
